@@ -1,2 +1,2 @@
-# Class-of-python-2023
-Study related work projects
+Introduction to Python
+printing Hello World
